@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"name": "RUTA_EVACUACION_PEATONAL",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 8, "RUTA": "EVACUACIÓN PEATONAL" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -78.512400842817684, -0.218416452170677 ], [ -78.514493858447224, -0.216842937382972 ], [ -78.513289245135283, -0.215540458511485 ], [ -78.511173643006131, -0.21703115686382 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 9, "RUTA": "EVACUACIÓN PEATONAL" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -78.513868965291678, -0.216172876012171 ], [ -78.511806064994929, -0.217723804533158 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 10, "RUTA": "EVACUACIÓN PEATONAL" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -78.514102359120884, -0.223261220345852 ], [ -78.514798776191881, -0.223912459459018 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 11, "RUTA": "EVACUACIÓN PEATONAL" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -78.514269284989979, -0.221897224698216 ], [ -78.5156644112826, -0.223456034036561 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 12, "RUTA": "EVACUACIÓN PEATONAL" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -78.514953826957566, -0.221354059591794 ], [ -78.516408478638638, -0.222961232999532 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 13, "RUTA": "EVACUACIÓN PEATONAL" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -78.510165753521392, -0.219832453126255 ], [ -78.508677618809301, -0.220836936629522 ], [ -78.508655296788632, -0.22146938917085 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 14, "RUTA": "EVACUACIÓN PEATONAL" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -78.510738685385562, -0.22056163375018 ], [ -78.508714822177112, -0.221819098211533 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 15, "RUTA": "EVACUACIÓN PEATONAL" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -78.511319057923288, -0.22123873001184 ], [ -78.509786279169816, -0.222250654037579 ], [ -78.509220787979231, -0.221514032878631 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 16, "RUTA": "EVACUACIÓN PEATONAL" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -78.507040670625955, -0.21485467833013 ], [ -78.506601670885914, -0.214229666132737 ], [ -78.506222196534324, -0.213545128934916 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 17, "RUTA": "EVACUACIÓN PEATONAL" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -78.506408213373334, -0.215338318703427 ], [ -78.505329315707058, -0.214073413079403 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 18, "RUTA": "EVACUACIÓN PEATONAL" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -78.51268814185832, -0.224438195444115 ], [ -78.512941124759379, -0.226968004825826 ], [ -78.512941124759379, -0.226968004825826 ] ] ] } }
+]
+}
