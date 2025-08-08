@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "RUTA_CIERRES_VALLAS",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 28, "RUTA": "CIERRES" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -78.513701573764607, -0.221268566821092 ], [ -78.513618433980326, -0.221185427656557 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 27, "RUTA": "CIERRES" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -78.512275406695892, -0.219567411515778 ], [ -78.512211453015652, -0.219484272341748 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 26, "RUTA": "CIERRES" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -78.512703896353315, -0.22011101379611 ], [ -78.512771047717536, -0.220168571683457 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 25, "RUTA": "CIERRES" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -78.513577663509182, -0.222524447797829 ], [ -78.513518506354998, -0.222568415621306 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 24, "RUTA": "CIERRES" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -78.512882167236896, -0.223089634173263 ], [ -78.512810219346633, -0.223140796729516 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 23, "RUTA": "CIERRES" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -78.512388125057257, -0.222446904545195 ], [ -78.512300188746977, -0.222525247212802 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 22, "RUTA": "CIERRES" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -78.510975947856082, -0.219430311819895 ], [ -78.510901601702827, -0.21934477439967 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 21, "RUTA": "CIERRES" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -78.509058136870721, -0.218769195484515 ], [ -78.508943020246363, -0.218855532323197 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 20, "RUTA": "CIERRES" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -78.508313076496293, -0.218321522979684 ], [ -78.508143599243724, -0.218471813036365 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 19, "RUTA": "CIERRES" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -78.505735743183735, -0.217474142844785 ], [ -78.505489521514917, -0.217375015354195 ], [ -78.505064229541503, -0.216876180230387 ] ] ] } }
+]
+}
